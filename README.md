@@ -31,6 +31,7 @@ Right now, I’m focused on strengthening my React and Next.js skills and becomi
 
 
 🚀 Goals
+
 Become a strong Front-End Developer
 Master modern React ecosystem
 Build real-world portfolio projects
@@ -39,6 +40,7 @@ Improve understanding of performance and optimization
 
 
 📫 Contact 
+
 Always open to collaboration, learning, and new opportunities.
 
 <!--
